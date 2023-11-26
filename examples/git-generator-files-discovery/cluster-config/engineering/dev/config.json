@@ -1,9 +1,9 @@
 {
-  "aws_account": "123456",
-  "asset_id": "1234",
-  "cluster": {
-    "owner": "cluster-admin@company.com",
-    "name": "engineering-dev",
-    "address": "https://34.132.130.28"
-  }
+  "cluster" : {
+    "owner" : "cluster-admin@company.com",
+    "address" : "https://34.132.130.28",
+    "name" : "engineering-dev"
+  },
+  "aws_account" : "123456",
+  "asset_id" : "1234"
 }
