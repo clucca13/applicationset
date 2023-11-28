@@ -4,6 +4,7 @@
     "address" : "https://34.132.130.28",
     "name" : "engineering-dev"
   },
+  "ingress" : "8080",
   "aws_account" : "123456",
-  "asset_id" : "54564"
+  "asset_id" : "1234"
 }
