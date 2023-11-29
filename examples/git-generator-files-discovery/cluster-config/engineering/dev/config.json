@@ -6,5 +6,6 @@
   },
   "ingress" : "8080",
   "aws_account" : "123456",
-  "asset_id" : "3435"
+  "namespace" : "git-generator-files-discovery-dev",
+  "asset_id" : "12343"
 }
