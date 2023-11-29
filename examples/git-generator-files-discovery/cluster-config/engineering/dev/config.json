@@ -6,5 +6,5 @@
   },
   "ingress" : "8080",
   "aws_account" : "123456",
-  "asset_id" : "1234"
+  "asset_id" : "3435"
 }
