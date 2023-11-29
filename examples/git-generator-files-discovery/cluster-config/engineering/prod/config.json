@@ -1,9 +1,11 @@
 {
-  "aws_account": "123456",
-  "asset_id": "4567",
-  "cluster": {
-    "owner": "cluster-admin@company.com",
-    "name": "engineering-prod",
-    "address": "https://35.238.214.47"
-  }
+  "cluster" : {
+    "owner" : "cluster-admin@company.com",
+    "address" : "https://35.238.214.47",
+    "name" : "engineering-prod"
+  },
+  "ingress" : "8080",
+  "aws_account" : "123456",
+  "namespace" : "git-generator-files-discovery-prod",
+  "asset_id" : "3443"
 }
