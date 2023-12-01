@@ -7,5 +7,5 @@
   "ingress" : "8080",
   "aws_account" : "123456",
   "namespace" : "git-generator-files-discovery-dev",
-  "asset_id" : "23423"
+  "asset_id" : "342423"
 }
